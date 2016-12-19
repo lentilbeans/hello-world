@@ -1,2 +1,4 @@
 # hello-world
-Math Code, Perhaps?
+Math code, perhaps?
+
+I tend to code in java and javascript, and will likely be sharing math and math-related code.
